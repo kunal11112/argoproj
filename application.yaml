@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: git@github.com:kunal11112/argoproj.git
+    repoURL: https://github.com/kunal11112/argoproj.git
     targetRevision: HEAD
     path: dev
   destination: 
